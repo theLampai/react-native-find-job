@@ -11,7 +11,8 @@
     "slug": "react_native_jobs",
     "updates": {
       "enabled": true,
-      "fallbackToCacheTimeout": 0
+      "fallbackToCacheTimeout": 0,
+      "url": "https://u.expo.dev/a1211a0a-2242-41d9-b0f3-2fb2f7c58be4"
     },
     "extra": {
       "router": {
@@ -20,6 +21,11 @@
       "eas": {
         "projectId": "a1211a0a-2242-41d9-b0f3-2fb2f7c58be4"
       }
-    }
+    },
+    "runtimeVersion": {
+      "policy": "appVersion"
+    },
+    "android": {},
+    "ios": {}
   }
 }
